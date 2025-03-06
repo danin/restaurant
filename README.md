@@ -7,6 +7,9 @@ YouTube Video: https://www.youtube.com/watch?v=nAmC7SoVLd8
 #How to run  this code:
 streamlit run main.py
 
+#create a file "secret_key.py" on the same level as main.py
+Add following content:
+openai_key = "<Your Open AI API key>" 
 
 
 
